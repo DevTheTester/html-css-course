@@ -119,4 +119,18 @@ a:active {
     background: black;
     font-style: italic;
 }
+
 /* LVHA */
+
+/* resolving conflicts */
+#copyright {
+    color:red;
+}
+
+.text_{
+    color: yellow;
+}
+
+footer p {
+    color: green;
+}
